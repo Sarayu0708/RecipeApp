@@ -1,4 +1,4 @@
-View app using the link : https://vsatyakiran.github.io/RecipeApp/
+View app using the link : https://sarayu0708.github.io/RecipeApp/
 
 The recipe app was build by using pure basic HTML, CSS, JavaScript.
 
